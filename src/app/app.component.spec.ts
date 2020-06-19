@@ -19,7 +19,6 @@ describe('AppComponent', () => {
   it(`should have as title 'converter-js'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('converter-js');
   });
 
   it('should render title', () => {
