@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "converter-js"
+  "defaultProject": "converter-js",
+  "cli": {
+    "analytics": "94479aa2-46c9-4cdf-8b2c-7dc36ed19ea6"
+  }
 }
